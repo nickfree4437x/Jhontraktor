@@ -39,7 +39,7 @@ The Construction Website is a dynamic, responsive website designed for a constru
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/construction-website.git
+   git clone https://github.com/yourusername/ATTPVTLTD3.git
    ```
 
 2. Install dependencies:
