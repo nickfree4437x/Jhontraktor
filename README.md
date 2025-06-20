@@ -55,5 +55,6 @@ The Construction Website is a dynamic, responsive website designed for a constru
 **Contribution:**  
 Feel free to fork the repository and contribute to improving the website. Open issues and pull requests are welcome!
 
-![Screenshot (904)](https://github.com/user-attachments/assets/4c81dbbf-74dd-4a55-b817-4023ba93ab8b)
+
+![Screenshot (904)](https://github.com/user-attachments/assets/16d23077-5ac1-42a3-a6d8-8e7bd22dc054)
 
